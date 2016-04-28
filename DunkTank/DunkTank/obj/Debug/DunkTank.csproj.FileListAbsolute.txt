@@ -1,0 +1,75 @@
+c:\users\joe\documents\visual studio 2012\Projects\DunkTank\DunkTank\bin\Debug\DunkTank.exe.config
+C:\Users\Joe\Downloads\DunkTank\DunkTank\DunkTank\bin\Debug\DunkTank.exe.config
+C:\Users\Joe\Downloads\DunkTank\DunkTank\DunkTank\bin\Debug\DunkTank.exe
+C:\Users\Joe\Downloads\DunkTank\DunkTank\DunkTank\bin\Debug\DunkTank.pdb
+C:\Users\Joe\Downloads\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Downloads\DunkTank\DunkTank\DunkTank\obj\Debug\MainWindow.baml
+C:\Users\Joe\Downloads\DunkTank\DunkTank\DunkTank\obj\Debug\MainWindow.g.cs
+C:\Users\Joe\Downloads\DunkTank\DunkTank\DunkTank\obj\Debug\App.g.cs
+C:\Users\Joe\Downloads\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank_MarkupCompile.cache
+C:\Users\Joe\Downloads\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank.g.resources
+C:\Users\Joe\Downloads\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank.Properties.Resources.resources
+C:\Users\Joe\Downloads\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank.csproj.GenerateResource.Cache
+C:\Users\Joe\Downloads\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank.exe
+C:\Users\Joe\Downloads\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank.pdb
+X:\Downloads\DunkTankOakes(2) (1)\DunkTank\DunkTank\bin\Debug\DunkTank.exe.config
+X:\Downloads\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.exe
+X:\Downloads\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.pdb
+V:\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\bin\Debug\DunkTank.exe.config
+V:\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.exe
+V:\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.pdb
+V:\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\bin\Debug\DunkTank.exe
+V:\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\bin\Debug\DunkTank.pdb
+V:\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.csprojResolveAssemblyReference.cache
+V:\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\MainWindow.baml
+V:\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\MainWindow.g.cs
+V:\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\App.g.cs
+V:\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank_MarkupCompile.cache
+V:\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.g.resources
+V:\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.Properties.Resources.resources
+V:\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\bin\Debug\DunkTank.exe.config
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.exe
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.pdb
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\bin\Debug\DunkTank.exe
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\bin\Debug\DunkTank.pdb
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\bin\Debug\Microsoft.Kinect.dll
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\bin\Debug\Microsoft.Kinect.xml
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank_MarkupCompile.cache
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.g.resources
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.Properties.Resources.resources
+\\Mac\Home\Desktop\DunkTankOakes(2) (1)\DunkTank\DunkTank\obj\Debug\DunkTank.csproj.GenerateResource.Cache
+D:\DunkTank\DunkTank\bin\Debug\DunkTank.exe.config
+D:\DunkTank\DunkTank\obj\Debug\DunkTank.exe
+D:\DunkTank\DunkTank\obj\Debug\DunkTank.pdb
+D:\DunkTank\DunkTank\bin\Debug\DunkTank.exe
+D:\DunkTank\DunkTank\bin\Debug\DunkTank.pdb
+D:\DunkTank\DunkTank\bin\Debug\Microsoft.Kinect.dll
+D:\DunkTank\DunkTank\bin\Debug\Microsoft.Kinect.xml
+D:\DunkTank\DunkTank\obj\Debug\DunkTank.csprojResolveAssemblyReference.cache
+D:\DunkTank\DunkTank\obj\Debug\MainWindow.baml
+D:\DunkTank\DunkTank\obj\Debug\MainWindow.g.cs
+D:\DunkTank\DunkTank\obj\Debug\App.g.cs
+D:\DunkTank\DunkTank\obj\Debug\DunkTank_MarkupCompile.cache
+D:\DunkTank\DunkTank\obj\Debug\DunkTank.g.resources
+D:\DunkTank\DunkTank\obj\Debug\DunkTank.Properties.Resources.resources
+D:\DunkTank\DunkTank\obj\Debug\DunkTank.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\bin\Debug\DunkTank.exe.config
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank.exe
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank.pdb
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\bin\Debug\DunkTank.exe
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\bin\Debug\DunkTank.pdb
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\bin\Debug\Microsoft.Kinect.dll
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\bin\Debug\Microsoft.Kinect.xml
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank_MarkupCompile.cache
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank.g.resources
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank.Properties.Resources.resources
+\\Mac\Home\Desktop\DunkTank\DunkTank\DunkTank\obj\Debug\DunkTank.csproj.GenerateResource.Cache
